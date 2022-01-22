@@ -1,0 +1,7 @@
+com/example/registration/dto/RegistrationResponse.class
+com/example/registration/controller/RegistrationController.class
+com/example/registration/service/RegistrationService.class
+com/example/registration/RegistrationApplication.class
+com/example/registration/dto/RegistrationRequest.class
+com/example/registration/service/impl/RegistrationServiceImpl.class
+com/example/registration/dto/IpApiResponse.class
